@@ -1,0 +1,27 @@
+/*This will be the other option that I mentioned where we can also do CSS */
+   h1,h2 {
+        color: purple;
+    }
+    p,ul {
+        color: white;
+    }
+    body{
+        background-image: url("https://hdwallsource.com/img/2014/5/best-hd-wallpapers-8324-8657-hd-wallpapers.jpg");
+    }
+    section1 {
+        background-color: black;
+    }
+    section2 {
+        background-color: pink;
+    }
+    h3 {
+        color: blue;
+    }
+    p2,p3 {
+        color: white;
+    }
+    h4 {
+        color: gold;
+    }
+    
+    /*Now lets say we wanted to put in a background picture instead of using a plain color*/
